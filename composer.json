@@ -1,0 +1,14 @@
+{
+    "name": "fatec/zonaleste",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MagyoDev"
+        }
+    ],
+    "require": {}
+}
